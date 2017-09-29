@@ -1,0 +1,11 @@
+#config
+local.config.js
+
+#dirs
+node_modules
+backup
+
+#ide
+.idea
+
+*~

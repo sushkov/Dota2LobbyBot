@@ -1,0 +1,13 @@
+{
+  "name": "dota2lobbybot",
+  "version": "0.0.1",
+  "scripts": {
+    "bot": "node bot.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "dota2": "github:arcana/node-dota2",
+    "mysql": "^2.14.1",
+    "mysql-events": "0.0.11"
+  }
+}
